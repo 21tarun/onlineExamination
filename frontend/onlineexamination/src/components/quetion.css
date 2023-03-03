@@ -1,0 +1,14 @@
+.quetion{
+  
+    
+    border: solid;
+    margin-right: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 50px;
+}
+
+.quetions{
+    margin: auto;
+    display: grid;
+}
